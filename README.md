@@ -1,4 +1,4 @@
-# [:computer: Testes FrontEnd :memo:
+# :computer: Testes FrontEnd :memo:
 
 
 
@@ -10,7 +10,7 @@ _Repositório para armazenar os códigos das atividades e arquivos relacionados 
 
 - [ ] Activity 1 (_Atividade 1_);
 
-- [x] Remote Class 1 (_Encontro Remoto 1)
+- [x] [Remote Class 1 (_Encontro Remoto 1_)](https://github.com/joelmaregina/TestesFrontEnd/tree/master/EncontroRemoto1)
 
   - [x] [Simple search test on the Senai São Paulo website (_Teste simples de busca na página do Senai São Paulo_);](https://github.com/joelmaregina/TestesFrontEnd/blob/master/EncontroRemoto1/HomePage.java)
   - [x] [Report of the Activity.](https://github.com/joelmaregina/TestesFrontEnd/blob/master/EncontroRemoto1/README.md)
