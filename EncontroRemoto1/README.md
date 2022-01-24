@@ -22,10 +22,10 @@
   - O teste realizado nesta atividade foi o teste de navegabilidade na Home Page do site, verificando a interação do usuário com a plataforma e resposta do site á respectiva interação do usuário:
 
     1. Verificar a funcionalidade da busca de cursos;
-  2. Verificar resultado da busca no site;
+    2. Verificar resultado da busca no site;
     3. Verificar o funcionamento do Link da página de Fale Conosco do menu lateral esquerdo da Home Page.
-  4. Verificar o preenchimento e validação dos campos do formulário da página Fale Conosco na nova Aba.
-  
+    4. Verificar o preenchimento e validação dos campos do formulário da página Fale Conosco na nova Aba.
+
 - #### **Requisitos a testar:**
 
   - A lista abaixo identifica os itens - use cases, requisitos funcionais e não funcionais - que serão os alvos do teste:

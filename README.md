@@ -8,11 +8,13 @@ _Repositório para armazenar os códigos das atividades e arquivos relacionados 
 
 
 
-- [ ] Activity 1 (_Atividade 1_);
+- [x] [Activity 1 (_Atividade 1_);](https://github.com/joelmaregina/TestesFrontEnd/tree/master/Atividade1)
+
+  - [x] [Plano e caso de testes (_Plan and case of tests_)](https://github.com/joelmaregina/TestesFrontEnd/tree/master/Atividade1/Plano&CasoDeTestes_JoelmaRegina.pdf)
 
 - [x] [Remote Class 1 (_Encontro Remoto 1_)](https://github.com/joelmaregina/TestesFrontEnd/tree/master/EncontroRemoto1)
 
-  - [x] [Simple search test on the Senai São Paulo website (_Teste simples de busca na página do Senai São Paulo_);](https://github.com/joelmaregina/TestesFrontEnd/blob/master/EncontroRemoto1/HomePage.java)
+  - [x] [Simple search and interactive navigation test on the Senai São Paulo website (_Teste simples de busca e navegação interativa na página do Senai São Paulo_);](https://github.com/joelmaregina/TestesFrontEnd/blob/master/EncontroRemoto1/HomePage.java)
   - [x] [Report of the Activity.](https://github.com/joelmaregina/TestesFrontEnd/blob/master/EncontroRemoto1/README.md)
 
 - [ ] Activity 2 (_Atividade 2_);
